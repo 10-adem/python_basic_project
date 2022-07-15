@@ -9,5 +9,6 @@ def chars_count(sentence = input("Enter a sentence : ")):
 
 chars_count()
 
+Test
 Enter a sentence : enter a sentence
 {' ': 2, 'a': 1, 'c': 1, 'e': 5, 'n': 3, 'r': 1, 's': 1, 't': 2}
